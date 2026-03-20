@@ -1,16 +1,64 @@
-# My Portfolio Wesbite - Overview 🚀
+# 🚀 Prathamesh Portfolio
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+A modern and interactive personal portfolio website built using React and Vite. This project showcases skills, projects, and experience with smooth animations and responsive design.
 
-## Instructions 🛠️
+---
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+## 🌟 Features
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+* 🎨 Modern UI/UX Design
+* ⚡ Fast performance using Vite
+* 📱 Fully Responsive (Mobile + Desktop)
+* 🎥 Smooth animations and transitions
+* 🧩 Modular and clean code structure
 
-![Portfolio-Preview](public/images/preview.png)
+---
 
-## License
+## 🛠️ Tech Stack
 
-This project is open source and available under the [MIT License](LICENSE).
+* React.js
+* Vite
+* JavaScript / TypeScript
+* CSS / Tailwind (if used)
+
+---
+
+## 📂 Project Structure
+
+```
+PrathameshPortfolio/
+│── public/
+│── src/
+│── index.html
+│── package.json
+│── vite.config.ts
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/prathameshmore16/PrathameshPortfolio.git
+cd PrathameshPortfolio
+npm install
+npm run dev
+```
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using GitHub Pages.
+
+---
+
+## 👨‍💻 Author
+
+* GitHub: https://github.com/prathameshmore16
+
+---
+
+## 📌 Note
+
+This project is for learning and portfolio purposes.
